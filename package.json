@@ -8,9 +8,13 @@
         "url": "git@github.com:AndrewJutton/nodejs-gravatar.git" },
     "main": "index.js",
     "dependencies": {
-        "crypto": "0.0.3"
+        "crypto": "0.0.3",
+        "querystring": "0.2.0"
     },
-    "devDependencies": {},
+    "devDependencies": {
+        "should": "1.2.2",
+        "jasmine-node": "1.11.0"
+    },
     "optionalDependencies": {},
     "engines": {
         "node": "*"
