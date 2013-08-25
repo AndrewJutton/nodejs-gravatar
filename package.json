@@ -2,7 +2,7 @@
     "name" : "nodejs-gravatar",
     "description" : "Node module to consume images and profiles from gravatar",
     "keywords" : [ "gravatar", "avatar" ],
-    "version" : "1.0.0",
+    "version" : "1.0.2",
     "author" : "Andrew Jutton <ajutton@gmail.com>",
     "repository" : { "type": "git",
         "url": "git@github.com:AndrewJutton/nodejs-gravatar.git" },
