@@ -1,1 +1,1 @@
-module.exports = require('./lib/gravatar-image');
+module.exports = require('./lib/gravatarImage');
