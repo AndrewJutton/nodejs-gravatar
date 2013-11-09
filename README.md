@@ -28,7 +28,7 @@ Simply add the following require statement to import the module and then call th
 You can also specify the size of the image with the following
 
 ###Example
-    newUser.avatar = gravatar.imageUrl('test@gmail.com, { "size": "200" ));
+    newUser.avatar = gravatar.imageUrl('test@gmail.com', { "size": "200" });
 
 A valid size is between 1 - 2048.
 
