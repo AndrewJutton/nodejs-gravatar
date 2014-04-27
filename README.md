@@ -32,3 +32,7 @@ You can also specify the size of the image with the following
 
 A valid size is between 1 - 2048.
 
+You can also use https://secure.gravatar.com/ URL, by passing the 3rd parameter to true.
+
+###Example
+    newUser.avatar = gravatar.imageUrl('test@gmail.com', { "size": "200" }, true);
